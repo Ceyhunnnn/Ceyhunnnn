@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ceyhunglll" target="blank"><img src="https://img.shields.io/twitter/follow/ceyhunglll?logo=twitter&style=for-the-badge" alt="ceyhunglll" /></a> </p>
 
-- 🌱 I’m currently learning **React, Flutter**
+- 🌱 I’m currently learning **React, **React Native, Flutter**
 
 - 💬 Ask me about **React, Flutter**
 
