@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, React Native, Flutter**
 
-- 💬 Ask me about **React, Flutter**
+- 💬 Ask me about **React, React Native, Flutter**
 
 - 📫 How to reach me **ceyhungul148@gmail.com**
 
