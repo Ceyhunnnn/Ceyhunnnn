@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/devCeyhunGl" target="blank"><img src="https://img.shields.io/twitter/follow/ceyhunglll?logo=twitter&style=for-the-badge" alt="ceyhunglll" /></a> </p>
 
-- 🌱 I’m currently learning **React, React Native, Flutter**
+- 🌱 I’m currently learning **React, React Native, NodeJs, Flutter**
 
-- 💬 Ask me about **React, React Native, Flutter**
+- 💬 Ask me about **React, React Native, NodeJs, Flutter**
 
 - 📫 How to reach me **ceyhungul148@gmail.com**
 
